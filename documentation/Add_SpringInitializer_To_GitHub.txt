@@ -1,0 +1,9 @@
+1. Create a new repository in GitHub with the same name as the projec is created, initializer
+2. Right click on the project folder and open GitBash
+3. initialize the local directory as a Git Repository
+	git init
+4. git add .
+5. git commit -m <commit message>
+6. fetch the git url and run the command git remote add origin <remote-repository>
+7. git push origin master
+8. git pull origin master
